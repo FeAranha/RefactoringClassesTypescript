@@ -1,5 +1,5 @@
 ## RefactoringClassesTypescript
-Desafio Trilha ReactJS Ignite - Aplicação de cardapio utilizando Fake API com JSON Server:
+Desafio Ignite Trilha ReactJS - Aplicação de cardápio utilizando Fake API com JSON Server:
 
 - Cadastro de Prato
 - Remoção de Prato
